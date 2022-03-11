@@ -1,0 +1,26 @@
+<annotation>
+	<folder>temp_images</folder>
+	<filename>0cbb580284f71cfa.jpg</filename>
+	<path>C:\Users\Administrator\YOLO\YOLO-Detection\data\temp_images\0cbb580284f71cfa.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>152</ymin>
+			<xmax>243</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

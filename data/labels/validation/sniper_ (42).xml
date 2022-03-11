@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>sniper_ (42).jpg</filename>
+	<path>C:\Users\Administrator\YOLO\YOLO-Detection\data\images\sniper_ (42).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>178</ymin>
+			<xmax>320</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>267</ymin>
+			<xmax>70</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

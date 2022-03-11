@@ -1,0 +1,26 @@
+<annotation>
+	<folder>temp_images</folder>
+	<filename>a72960fa1ee6eecd.jpg</filename>
+	<path>C:\Users\Administrator\YOLO\YOLO-Detection\data\temp_images\a72960fa1ee6eecd.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shotgun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>52</ymin>
+			<xmax>295</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>

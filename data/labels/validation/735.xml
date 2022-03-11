@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>735.jpg</filename>
+	<path>C:\Users\Administrator\YOLO\YOLO-Detection\data\images\735.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>87</ymin>
+			<xmax>197</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+</annotation>
