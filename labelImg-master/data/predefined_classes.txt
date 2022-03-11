@@ -1,6 +1,0 @@
-rifle
-pistol
-person
-car
-shotgun
-grenades
